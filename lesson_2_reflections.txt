@@ -1,0 +1,5 @@
+
+
+1>How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a platform to place the files in 'tracking' region but not inside a commit.
